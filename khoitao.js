@@ -1,1 +1,2 @@
-var khoitao; 
+var khoitao;
+var khacbiet;
